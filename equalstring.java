@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class equalstring {
     public static void main(String[] args) {
         String str="hello";
-        String str1="hello";
+        String str1="helloieee";
         char ch[]=str.toCharArray();
         char ch1[]=str1.toCharArray();
         Arrays.sort(ch);
