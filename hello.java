@@ -1,16 +1,11 @@
 public class hello {
-
-
-        public static void main(String[] args) {
-            byte a = 5;
-            short b = 15;
-            int c = 20;
-            float f = 90;
-            boolean data = false;
-            System.out.println(a);
-            System.out.println(b);
-            System.out.println(c);
-            System.out.println(f);
-        }
+    public static void main(String args[]){
+        int a=9;
+        int b=21;
+        int c=a+b;
+        System.out.println("HELLUUUUUUUUUUUU");
+        System.out.println(a+b);
+        System.out.println(8+9);
+        System.out.println(c);
     }
-
+}
